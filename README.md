@@ -1,2 +1,2 @@
 # blogfor-patika-kodluyoruz
-![blogdata](https://user-images.githubusercontent.com/87272740/205494789-164ad971-40ec-4bc9-b735-118987126cee.JPG)
+![blogdata1](https://user-images.githubusercontent.com/87272740/205580165-32edcd3d-4388-4e14-95f0-19800cfdb77d.JPG)
